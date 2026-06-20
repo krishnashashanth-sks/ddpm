@@ -88,10 +88,6 @@ Typical inference options (check `inference.py`):
 - Use smaller models and datasets for quick experiments.
 - Keep an eye on numerical stability when integrating SDEs — adjust step sizes or solvers as needed.
 
-## License
-
-Include your project license here (e.g., MIT). If your repository already has a LICENSE file, this README inherits that license.
-
 ## Contact / References
 
 - Score-based generative modeling: Song & Ermon (NIPS/ICML papers)
